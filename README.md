@@ -1,9 +1,7 @@
-# apocalypto.github.io
-
 <h1 align="center">Hi, I'm Jarif Ahmed 👋</h1>
 
 <p align="center">
-  Computer Science & Engineering Student · Machine Learning Enthusiast · Dhaka, Bangladesh
+  Computer Science & Engineering Student · Machine Learning Enthusiast · Sylhet, Bangladesh
 </p>
 
 ---
@@ -91,9 +89,19 @@ Self-employed · Dhaka, Bangladesh
 
 - **Tech used:** JavaScript, Node.js, HTML, CSS
 - **Features:** Real-time seat selection, race calendar, booking confirmation system
-- 🔗 [View on GitHub](https://github.com/jarifah/f1bookings)
+- 🔗 [View on GitHub](httpss//github.com/jarifah/f1bookings)
 
 ---
+
+### 🚑 Injury Prediction System
+
+>Machine learning model for predicting the likelihood and severity of injuries based on structured health and incident data
+
+- **Tech used:** Python, Pandas, NumPy, scikit-learn, Matplotlib
+- **Dataset:** Kaggle injury/health-related dataset
+- **Features:** Data preprocessing, feature selection, classification models, performance evaluation
+Applied multiple ML algorithms to predict injury outcomes and compared model accuracy
+- 🔗 [View on Kaggle](https://www.kaggle.com/code/rakin175/player-injury-prediction)
 
 ### 🧠 Alzheimer's Disease Classification (Research)
 > Deep learning research on Explainable AI for diagnosing Alzheimer's from brain MRI scans
@@ -110,12 +118,11 @@ Self-employed · Dhaka, Bangladesh
 
 - **Tech used:** Python, TensorFlow, NumPy, scikit-learn, OpenCV
 - **Features:** Multi-class vehicle detection, bounding box prediction, accuracy benchmarking
-- 🔗 [View on GitHub](https://github.com/jarifah/vehicle-detection)
+- 🔗 [View on GitHub](https://github.com/apocalyptoo/WEB_FrontEnd_pproject.git)
 
----
 
-<p align="center">
-  <i>📬 Reach me at <b>jarifah@email.com</b> ·
-  <a href="https://linkedin.com/in/jarifah">LinkedIn</a> ·
-  <a href="https://github.com/jarifah">GitHub</a></i>
+ <p align="center">
+  <i>📬 Reach me at <b>ahmedjarif468@gmail.com</b> ·
+  <a href="https://bd.linkedin.com/in/jarif-ahmed-7617b6230">LinkedIn</a> ·
+  <a href="https://github.com/apocalyptoo">GitHub</a></i>
 </p>
