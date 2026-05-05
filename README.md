@@ -80,7 +80,7 @@ Self-employed · Dhaka, Bangladesh
 
 - **Tech used:** React Native, Node.js, REST API
 - **Features:** Player matchmaking, real-time game sessions, indoor venue listings, user profiles
-- 🔗 [View on GitHub](https://github.com/jarifah/connect-arena)
+- 🔗 [View on GitHub](https://github.com/apocalyptoo/temp_prjct)
 
 ---
 
@@ -89,7 +89,7 @@ Self-employed · Dhaka, Bangladesh
 
 - **Tech used:** JavaScript, Node.js, HTML, CSS
 - **Features:** Real-time seat selection, race calendar, booking confirmation system
-- 🔗 [View on GitHub](httpss//github.com/jarifah/f1bookings)
+- 🔗 [View on GitHub](https://github.com/apocalyptoo/WEB_FrontEnd_project.git)
 
 ---
 
